@@ -1,6 +1,6 @@
-# VLLM Proof of Concept with Jupyter Notebook
+# vLLM Proof of Concept with Jupyter Notebook
 
-This repository contains the Jupyter Notebook and setup instructions for a Proof of Concept (POC) project demonstrating the use of Very Large Language Models (VLLM) with a focus on connecting Jupyter Notebook on an EC2 instance with Google Colab for local runtime.
+This repository contains the Jupyter Notebook and setup instructions for a Proof of Concept (POC) project demonstrating the use of Virtual Large Language Model (vLLM) library with a focus on connecting Jupyter Notebook on an EC2 instance with Google Colab for local runtime.
 
 ## Jupyter Notebook
 
